@@ -1,4 +1,4 @@
-# 📊 Diversity & Inclusion Data Analysis
+# 📊 Diversity & Inclusion Data Analysis (Power BI)
 
 This repository contains an interactive **Diversity & Inclusion Data Analysis Dashboard** built using Power BI.  
 The report provides insights into workforce distribution, promotions, hiring patterns, performance ratings, and turnover, helping organizations evaluate gender representation and inclusivity across job levels.
